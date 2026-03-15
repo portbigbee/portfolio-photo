@@ -1,0 +1,34 @@
+[33mb6332aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to origin/main
+[33m87bd95b[m HEAD@{1}: commit: hi
+[33m058bd65[m HEAD@{2}: commit: up
+[33m34d44de[m HEAD@{3}: commit: udpate
+[33m5206ed2[m HEAD@{4}: reset: moving to HEAD~1
+[33m29730b2[m HEAD@{5}: commit: update
+[33m5206ed2[m HEAD@{6}: commit: wedding
+[33mb6332aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{7}: commit: up
+[33med4dbc8[m HEAD@{8}: commit: del
+[33m893f729[m HEAD@{9}: commit: up
+[33ma2632a9[m HEAD@{10}: commit: dell
+[33mb4a9ffc[m HEAD@{11}: commit: update
+[33m1cb773d[m HEAD@{12}: commit: del
+[33ma8fbf4b[m HEAD@{13}: commit: up
+[33m4821f12[m HEAD@{14}: commit: udpate image
+[33mcd46c55[m HEAD@{15}: commit: del
+[33me8a9089[m HEAD@{16}: commit: a
+[33m58ff96c[m HEAD@{17}: commit: update
+[33md0f124a[m HEAD@{18}: commit: udpate image
+[33mdc94a70[m HEAD@{19}: commit: udpate
+[33m2b0c3ae[m HEAD@{20}: commit: del image
+[33mf54282e[m HEAD@{21}: commit: delete
+[33mc31e284[m HEAD@{22}: commit: update image
+[33m0ace93c[m HEAD@{23}: commit: real
+[33mcc431c1[m HEAD@{24}: commit: real
+[33m06380b2[m HEAD@{25}: commit: cover
+[33m616c8b8[m HEAD@{26}: commit: favicon
+[33mfce6298[m HEAD@{27}: commit: real
+[33mace4f90[m HEAD@{28}: pull: Fast-forward
+[33mccb97d1[m HEAD@{29}: commit: add image
+[33m1c4955c[m[33m ([m[1;31morigin/phuong[m[33m)[m HEAD@{30}: checkout: moving from 1c4955cd6a808c6f4071aa69720d083b5acabbfb to main
+[33m1c4955c[m[33m ([m[1;31morigin/phuong[m[33m)[m HEAD@{31}: rebase (start): checkout main
+[33m85ae6c2[m HEAD@{32}: checkout: moving from main to 85ae6c21893a915ccda57cc0c056b4b3c594d4dc
+[33m1c4955c[m[33m ([m[1;31morigin/phuong[m[33m)[m HEAD@{33}: clone: from https://github.com/portbigbee/portfolio-photo.git
